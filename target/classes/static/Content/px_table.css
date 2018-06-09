@@ -1,0 +1,39 @@
+.tr_bt_px td{ background-color: #FFFFFF;text-align:center; border-left:1px dotted #E1E1E1; padding:2px 5px; height:100%;}
+.yidong{ background:url(images/yid.jpg) no-repeat center; width:26px; height:23px; line-height:23px; padding-top:2px;cursor:pointer;}
+.s_no{ width:26px; height:23px; line-height:23px; }
+
+
+
+.table_dbpx{}
+.table_dbpx td{ border:1px solid #d2d6de; padding:3px 5px;}
+.table_dbpx .td_l{ text-align: left;height: 44px;}
+
+
+.quchu{ background:url(images/an_small.jpg); width:48px; height:25px; line-height:25px; margin-left:28px; border:0;}
+.p_an{ padding:10px 20px;}
+
+.tr_bt_pl td{ text-align:left; color:#4351a9; background:#f8f8f8; line-height:35px; font-weight:bold; padding-left:10px;}
+.td_bt_pl{ text-align:center!important; color:#4351a9; background:#f8f8f8; line-height:35px; font-weight:bold;  height:35px;}
+
+.table_1{ width:90%; margin:5px auto}
+.table_1 td{ background-color:#FFFFFF; text-align:right; padding:5px;  height:25px!important;}
+.table_2{ width:90%; margin:5px auto}
+.table_2 td{ background-color:#FFFFFF; text-align:left; padding:5px;  height:25px;}
+.table_2 td input{ line-height:20px;}
+.table_2 td select{ line-height:20px;}
+.span_h{ visibility: hidden;}
+.width_shuru{ width:140px;}
+.juzhong_m{ vertical-align:middle; margin:auto 4px; *margin:auto 1px!important; *margin:auto 3px;}
+.left_px{ width:180px; float:left; overflow:hidden}
+.right_px{ width:844px; float:right; overflow:hidden}
+.p_biaotou{ line-height:35px;}
+
+
+/*8月22日添加 参配*/
+.cp-input1{width:40px;height:20px;line-height:20px;}
+.cp-input2{width:80px;height:20px;line-height:20px;}
+.canpei_table tr td{width:200px;}
+.m-rit15{margin-right:15px;}
+.canpei_table tr td p{padding:2px 0;}
+
+

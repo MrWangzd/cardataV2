@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title>正在加载...</title>
+   <script type="text/javascript">
+       window.onload = function() {
+        try{
+            var h = window.top.document.getElementById("windowMain").getElementsByTagName("iframe")[0].height + "px";
+            var w = window.top.document.getElementById("windowMain").getElementsByTagName("iframe")[0].width + "px";
+            document.body.style.height = h;
+            document.body.style.lineHeight = h;
+            document.body.style.width = w;
+            }catch(e){}
+        }
+    </script>
+</head>
+<body style="background-color:#FFFFFF;text-align:center;vertical-align:middle;">
+<img src="images/ajax-loader.gif" alt="正在加载..." />正在加载...
+</body>
+</html>

@@ -1,0 +1,9 @@
+.arrow_di{ background:url(images/di.gif) no-repeat center;}
+.arrow_ding{ background:url(images/ding.gif) no-repeat center;}
+.arrow_down{ background:url(images/arrow-down.gif) no-repeat center;}
+.arrow_up{ background:url(images/arrow-up.gif) no-repeat center;}
+.span_an{ background:url(images/an_big_50.gif) no-repeat center; border:0!important; color:#4351a9; line-height:25px;}
+.span_an,.span_bj{width:50px;  float:right; border:1px solid #EAEAEA; line-height:23px; cursor:pointer; padding:2px; margin-right:2px;}
+.span_bj{display:none;}
+.span_bj p{ width:15px; height:18px;float:right; cursor:pointer; background-color:#FFFFFF; border-bottom:1px solid #006600; margin-bottom:1px; border-right:1px dotted #999999; background-color:#F3F3F3;}
+.sec_1{vertical-align:middle; margin-top:4px;}

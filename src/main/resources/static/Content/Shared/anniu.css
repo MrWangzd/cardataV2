@@ -1,0 +1,53 @@
+.an_hy{ background:url(../images/an_hy.jpg) no-repeat; width:94px; height:30px; line-height:33px; border:0; text-align:left; padding-left:15px;cursor:pointer;}
+.an_hy:hover{ color:#e50110;}
+
+.an_cj{ background:url(../images/an_cj.jpg) no-repeat; width:100px; height:30px; line-height:33px; border:0; text-align:left; padding-left:8px;cursor:pointer;}
+.an_cj:hover{ color:#e50110;}
+
+.an_sc{ background:url(../images/an_sc.jpg) no-repeat; width:100px; height:30px; line-height:33px; border:0; text-align:left; padding-left:8px;cursor:pointer;}
+.an_sc:hover{ color:#e50110}
+
+
+.an_xl{ background:url(../images/an_xl.jpg); width:100px; height:28px; border:0; padding-left:8px;color: #4351a9; cursor:pointer; text-align:left; line-height:28px; padding-bottom:2px;}
+.an_xl:hover{ color:#e50110;}
+
+.an_tj_2{ background:url(../images/hid_1.jpg); width:110px; height:24px; border:0; padding-left:8px;color: #4351a9; cursor:pointer; text-align:left}
+.an_tj_2:hover{ color:#e50110;}
+.an_tj_3{ background:url(../images/hid_2.jpg); width:110px; height:24px; border:0; padding-left:3px;color: #4351a9; cursor:pointer; text-align:left}
+.an_tj_3:hover{ color:#e50110;}
+
+.an_tj_1{ background:url(../images/tianjia_an.jpg); width:91px; height:24px; line-height:25px; border:0; padding-left:7px;color: #4351a9; cursor:pointer;}
+.an_tj_1:hover{ color:#e50110;}
+.an_qd{ background:url(../images/qudd.jpg); width:69px; height:27px; text-align:center; border:0; color:#004b8e; line-height:27px; cursor:pointer;}
+.an_qd:hover{ color:#e50110;}
+.an_qd_big{ background:url(../images/qudd_big.jpg); width:120px; height:27px; text-align:center; border:0; color:#004b8e; line-height:27px; cursor:pointer;}
+.an_qd_big:hover{ color:#e50110;}
+
+.an_qx{ background:url(../images/qux.jpg); width:69px; height:27px; text-align:center; border:0; color:#004b8e; line-height:27px; cursor:pointer;}
+.an_qx:hover{ color:#e50110}
+
+.an_tj_ys{ background:url(../images/an_tj_ys.jpg) no-repeat; width:94px; height:30px; line-height:33px; border:0; text-align:left; padding-left:4px;cursor:pointer;}
+.an_tj_ys:hover{ color:#e50110}
+
+.an_tj{ background:url(../images/an_tj.jpg) no-repeat; width:75px; height:30px; line-height:33px; border:0; text-align:left; padding-left:8px;cursor:pointer;}
+.an_tj:hover{ color:#e50110}
+.an_del{ background:url(../images/an_del.jpg) no-repeat; width:75px; height:30px; line-height:33px; border:0; text-align:left; padding-left:8px;cursor:pointer;}
+.an_del:hover{ color:#e50110}
+.an_db{ background:url(../images/an_db.jpg) no-repeat; width:75px; height:30px; line-height:33px; border:0; text-align:left; padding-left:8px;cursor:pointer;}
+.an_db:hover{ color:#e50110}
+
+.an_tb{ background:url(../images/an_tb.jpg) no-repeat; width:110px; height:30px; line-height:33px; border:0; text-align:left; padding-left:5px;cursor:pointer;}
+.an_tb:hover{ color:#e50110}
+
+.an_xg{ background:url(../images/an_xg.jpg) no-repeat; width:123px; height:30px; line-height:33px; border:0; text-align:left; padding-left:5px;cursor:pointer;}
+.an_xg:hover{ color:#e50110}
+.an_ss{ background:url(../images/an_ss.jpg) no-repeat; width:54px; height:22px; line-height:22px; border:0;cursor:pointer;}
+.an_big{ text-align:center; background:url(../images/an_big.jpg) no-repeat; width:67px ; height:25px; line-height:25px; border:0; color: #4351a9;cursor:pointer;}
+.an_big:hover{ color:#e60007}
+
+.an_small{ text-align:center; background:url(../images/an_small.jpg) no-repeat; width:48px ; height:25px; line-height:25px; border:0; color: #4351a9;cursor:pointer;}
+.an_small:hover{ color:#e60007}
+
+.an_tb_s{ background:url(../images/an_tb_s.jpg) no-repeat; width:94px; height:30px; line-height:33px; border:0; text-align:left; padding-left:4px;cursor:pointer;}
+.an_tb_s:hover{ color:#e50110}
+

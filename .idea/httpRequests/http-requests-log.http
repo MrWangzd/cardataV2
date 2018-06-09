@@ -1,0 +1,473 @@
+POST http://localhost:8081/add
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+{"user_Id":343,"user_Name":"fortest测试","phone":"cdc","password":123456}
+
+<> 2018-05-15T094231.200.json
+
+###
+
+POST http://localhost:8081/add
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+{"user_Id":343,"user_Name":"fortest测试","phone":"cdc","password":123456}
+
+<> 2018-05-14T105606.200.json
+
+###
+
+POST http://localhost:8081/add
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+{"user_Id":343,"user_Name":"fortest测试","phone":"cdc","password":123456}
+
+<> 2018-05-14T102259.200.json
+
+###
+
+POST http://localhost:8081/add
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+{"user_Id":343,"user_Name":"fortest测试","phone":"cdc","password":123456}
+
+<> 2018-05-14T102258.200.json
+
+###
+
+POST http://localhost:8081/add
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+{"user_Id":343,"user_Name":"fortest测试","phone":"cdc","password":123456}
+
+<> 2018-05-14T102257.200.json
+
+###
+
+POST http://localhost:8081/add
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+{"user_Id":343,"user_Name":"fortest测试","phone":"cdc","password":123456}
+
+<> 2018-05-14T102248.200.json
+
+###
+
+POST http://localhost:8081/add
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+{"user_Id":343,"user_Name":"fortest测试","phone":"cdc","password":123456}
+
+<> 2018-05-14T102224.200.json
+
+###
+
+POST http://localhost:8081/add
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+{"user_Id":343,"user_Name":"fortest测试","phone":"cdc","password":123456}
+
+<> 2018-05-14T102104.200.json
+
+###
+
+POST http://localhost:8081/add
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+{"user_Id":343,"user_Name":"fortest测试","phone":"cdc","password":123456}
+
+<> 2018-05-14T101445.200.json
+
+###
+
+POST http://localhost:8081/add
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+{"user_Id":343,"user_Name":"fortest测试","phone":"cdc","password":123456}
+
+<> 2018-05-14T101331.200.json
+
+###
+
+POST http://localhost:8081/add
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+{"user_Id":343,"user_Name":"fortest测试","phone":"cdc","password":123456}
+
+<> 2018-05-14T101101.200.json
+
+###
+
+POST http://localhost:8081/add
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+{"user_Id":343,"user_Name":"fortest测试","phone":"cdc","password":123456}
+
+<> 2018-05-14T100606.200.json
+
+###
+
+POST http://localhost:8081/add
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+{"user_Id":343,"user_Name":"fortest测试","phone":"cdc","password":123456}
+
+<> 2018-05-14T100540.200.json
+
+###
+
+POST http://localhost:8081/add
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+{"user_Id":343,"user_Name":"fortest测试","phone":"cdc","password":123456}
+
+<> 2018-05-14T100347.200.json
+
+###
+
+POST http://localhost:8081/add
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+{"user_Id":343,"user_Name":"fortest测试","phone":"cdc","password":123456}
+
+<> 2018-05-14T100329.200.json
+
+###
+
+POST http://localhost:8081/add
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+{"user_Id":343,"user_Name":"fortest测试","phone":"cdc","password":123456}
+
+###
+
+POST http://localhost:8081/add
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+{"user_Id":343,"user_Name":"fortest测试","phone":"cdc","password":123456}
+
+<> 2018-05-14T011216.200.json
+
+###
+
+POST http://localhost:8081/add
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+{"user_Id":343,"user_Name":"fortest测试","phone":"cdc","password":123456}
+
+<> 2018-05-14T010831.200.json
+
+###
+
+POST http://localhost:8081/add
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+{"userId":343,"userName":"fortest测试","phone":"cdc","password":123456}
+
+<> 2018-05-14T010630.200.json
+
+###
+
+POST http://localhost:8081/add
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+{"userId":343,"userName":"for test测试","phone":"cdc","password":123456}
+
+<> 2018-05-14T010558.200.json
+
+###
+
+POST http://localhost:8081/add
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+{"userId":343,"userName":"for test测试","phone":"cdc","password":123456}
+
+<> 2018-05-14T010450.200.json
+
+###
+
+POST http://localhost:8081/add?={"userId":343,"userName":"for test测试","phone":"cdc","password":123456}
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+<> 2018-05-14T010305.400.json
+
+###
+
+POST http://localhost:8081/add?user={"userId":343,"userName":"for test测试","phone":"cdc","password":123456}
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+<> 2018-05-14T010132.400.json
+
+###
+
+POST http://localhost:8081/add?userName=haha&password=123&phone=69398569&userId=1
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+<> 2018-05-14T125307.400.json
+
+###
+
+POST http://localhost:8081/add?userName=haha&password=123&phone=69398569&userId=1
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+<> 2018-05-14T125251.400.json
+
+###
+
+GET http://localhost:8081/hello/login/4?userName=haha&password=123&phone=69398569&userId=1
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+<> 2018-05-14T125126.200.txt
+
+###
+
+POST http://localhost:8081/add?userName=haha&password=123&phone=69398569
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+<> 2018-05-14T124649.400.json
+
+###
+
+POST http://localhost:8081/add?userId=true&userName=haha&password=123&phone=69398569
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+<> 2018-05-14T124634.400.json
+
+###
+
+POST http://localhost:8081/add?userId='1'&userName=haha&password=123&phone=69398569
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+<> 2018-05-14T124102.400.json
+
+###
+
+POST http://localhost:8081/add?userId=1&userName=haha&password=123&phone=69398569
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+<> 2018-05-14T124049.400.json
+
+###
+
+POST http://localhost:8081/add?user_Id=1&user_Name=haha&password=123&phone=69398569
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+<> 2018-05-14T124005.400.json
+
+###
+
+POST http://localhost:8081/add?user_Id=1&user_Name=haha&password=123&phone=69398569
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+<> 2018-05-14T120622.400.json
+
+###
+
+POST http://localhost:8081/add?user_Id=1&user_Name=haha&password=123&phone=69398569
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+<> 2018-05-14T113022.400.json
+
+###
+
+POST http://localhost:8081/add?user_Id=1&user_Name=haha&password=123&phone=69398569
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json
+
+<> 2018-05-13T062520.400.json
+
+###
+
+POST http://localhost:8081/add?user_Id=1&user_Name=haha&password=123&phone=69398569
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/x-www-form-urlencoded
+
+<> 2018-05-13T062144.415.json
+
+###
+
+POST http://localhost:8081/add?user_Id=1&user_Name=haha&password=123&phone=69398569
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/x-www-form-urlencoded
+
+<> 2018-05-13T055735.415.json
+
+###
+
+POST http://localhost:8081/add?user_Id=1&user_Name=haha&password=123&phone=69398569
+Accept:*/*
+Cache-Control:no-cache
+
+<> 2018-05-13T055543.415.json
+
+###
+
+POST http://localhost:8081/add?user_Id=1&user_Name=haha&password=123&phone=69398569
+Accept:*/*
+Cache-Control:no-cache
+
+<> 2018-05-13T055326.415.json
+
+###
+
+POST http://localhost:8081/add?user_Id=1&user_Name=haha&password=123&phone=69398569
+Accept:*/*
+Cache-Control:no-cache
+
+<> 2018-05-13T054852.415.json
+
+###
+
+POST http://localhost:8081/add?user_Id=1&user_Name=haha&password=123&phone=69398569
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json;charset=UTF-8
+
+<> 2018-05-13T054402.400.json
+
+###
+
+POST http://localhost:8081/add?user_Id=1&user_Name=haha&password=123&phone=69398569
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json;charset=UTF-8
+
+<> 2018-05-13T053933.400.json
+
+###
+
+POST http://localhost:8081/add?user_Id=1&user_Name=haha&password=123&phone=69398569
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json;charset=UTF-8
+
+<> 2018-05-13T053436.400.json
+
+###
+
+POST http://localhost:8081/add?user_Id=1&user_Name=haha&password=123&phone=69398569
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/x-www-form-urlencoded;charset=UTF-8
+
+<> 2018-05-13T053024.415.json
+
+###
+
+POST http://localhost:8081/add?user_Id=1&user_Name=haha&password=123&phone=69398569
+Accept:*/*
+Cache-Control:no-cache
+Content-Type:application/json;charset=UTF-8
+
+<> 2018-05-13T052920.400.json
+
+###
+
+POST http://localhost:8081/add?user_Id=1&user_Name=haha&password=123&phone=69398569
+Accept:*/*
+Cache-Control:no-cache
+
+<> 2018-05-13T052813.415.json
+
+###
+
+POST http://localhost:8081/add?user_Id=1&user_Name=haha&password=123&phone=69398569
+Accept:*/*
+Cache-Control:no-cache
+
+<> 2018-05-13T052654.415.json
+
+###
+
+POST http://localhost:8081/add?user_Id=1&user_Name=haha&password=123&phone=69398569
+Accept:*/*
+Cache-Control:no-cache
+
+<> 2018-05-13T051759.415.json
+
+###
+
+POST http://localhost:8081/user/add?user_Id=1&user_Name=haha&password=123&phone=69398569
+Accept:*/*
+Cache-Control:no-cache
+
+<> 2018-05-13T051710.415.json
+
+###
+
+POST http://localhost:8081/user/add?user_Id=1&user_Name=haha&password=123&phone=69398569
+Accept:*/*
+Cache-Control:no-cache
+
+<> 2018-05-13T051546.404.json
+
+###
+

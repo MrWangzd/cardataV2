@@ -1,0 +1,1 @@
+{"status":"error","result":"org.mybatis.spring.MyBatisSystemException:nested exception is org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'user_name' in 'class com.yiche.Entity.User'"}

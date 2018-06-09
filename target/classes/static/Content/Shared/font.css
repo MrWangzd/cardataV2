@@ -1,0 +1,12 @@
+*{ font-size:12px;  line-height:22px;}
+.blue{ color:#004a8b;}
+.red{ color:#e50110;}
+a:link { color: #004b8e;  text-decoration:none;}
+a:visited { color: #004b8e; text-decoration:none;}
+a:hover { color: #e60007;  text-decoration:none;}
+a:active {  color: #004b8e; text-decoration:none;}
+.white{ color:#FFFFFF}
+.white a:link { color: #fff;  text-decoration:none;}
+.white a:visited { color: #fff; text-decoration:none;}
+.white a:hover { color: #e60007;  text-decoration:none;}
+.white a:active {  color: #fff; text-decoration:none;}

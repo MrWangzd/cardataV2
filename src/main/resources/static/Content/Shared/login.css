@@ -1,0 +1,13 @@
+body{ background:#eeeeee; padding:0; margin:0;}
+.main_l{ background:url(../images/login_main_bj.jpg) no-repeat; width:606px; height:269px; margin:180px auto 0px auto;}
+.main_bot{ margin:0 auto; width:606px;}
+.ul_login{ list-style:none; float:left; width:606px; padding:0; margin:225px auto 0px auto; padding-left:8px;}
+.ul_login li{ float:left; line-height:23px; *line-height:23px!important; *line-height:29px;}
+.li_1{ background:url(../images/l_yhm.jpg) no-repeat center left; padding-left:20px; width:50px; line-height:20px;}
+.in_login{ width:100px; height:17px; line-height:17px;margin-right:6px; vertical-align:middle;}
+.in_login_s{ width:40px; height:17px; line-height:17px; margin-right:6px; vertical-align:middle;}
+
+.li_2{ background:url(../images/l_mm.jpg) no-repeat center left; padding-left:20px; width:40px; line-height:23px; margin-left:3px;}
+.li_3{ width:50px; margin-left:3px;}
+.an_login{ background:url(../images/l_dl.jpg); width:62px; height:24px; border:0; margin-left:10px; cursor:pointer; vertical-align:middle}
+.an_login:hover{ background:url(../images/l_dl_h.jpg); width:62px; height:24px; border:0; margin-left:10px; cursor:pointer;}

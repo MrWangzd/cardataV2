@@ -1,0 +1,14 @@
+/*мов╖*/
+div.drag{
+border:1px solid black;
+position:static;
+background:#f5f5f5; border:1px solid #fff;width:60px; text-align:center;
+height:22px; line-height:22px;cursor:pointer;
+float:left;
+}
+div.helper{
+border:1px dashed black;
+position:absolute;
+background:#f5f5f5; border:1px solid #fff;width:60px; text-align:center;
+height:22px; line-height:22px;
+}

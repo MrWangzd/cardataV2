@@ -1,0 +1,34 @@
+html {_background-image: url(about|blank);_background-attachment: fixed;/* »∑±£ie6πˆ∂Ø≤ª…¡À∏ */}
+.box {
+           margin:0;
+           padding:0;
+	background-color: #f2f2f2;
+	height: 30px;
+	width: 100%;
+	position: fixed;
+	bottom: 0px;
+	left: auto;
+	right: auto;
+	line-height: 30px;
+	text-align: center;
+	_POSITION: absolute;/*ºÊ»›IE6*/
+ _TOP: expression(offsetParent.scrollTop+document.documentElement.clientHeight-this.offsetHeight);/*ºÊ»›IE6*/
+}
+
+.box a{color: #FFF;}
+.box_right {
+           margin:0;
+           padding:0;
+		   background-color: #f2f2f2;
+		   width: 170px;
+		   position: fixed;
+		   top: 100px;
+		   left: auto;
+		   right: 2px;
+		   line-height: 30px;
+		  
+		   _POSITION: absolute;/*ºÊ»›IE6*/
+		  _TOP: expression(offsetParent.scrollTop+document.documentElement.clientHeight-this.offsetHeight);/*ºÊ»›IE6*/
+}
+.box_right ul{ list-style:none; padding:10px;}
+.box_right ul li{ border-bottom:#333333 1px dotted; width: 70px;height: 25px;line-height: 25px; float: left;text-align: left;margin-right: 5px;overflow: hidden;}

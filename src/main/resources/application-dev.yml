@@ -1,0 +1,15 @@
+server:
+  port: 8081
+girl:
+  cupSize: C
+  age: 18
+spring:
+  http:
+    encoding:
+      charset: utf-8
+  datasource:
+    url: jdbc:mysql://localhost:3306/mytest
+    username: root
+    password: burlcar285
+    driver-class-name: com.mysql.jdbc.Driver
+

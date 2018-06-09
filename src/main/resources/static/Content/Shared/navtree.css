@@ -1,0 +1,186 @@
+
+/*17.3.23 修改左侧栏和搜索liuhui*/
+/*tree*/
+#right{float:right;}
+#top{width:1142px;}
+.not{width:1142px;}
+.ul_top_dh{position:relative;}
+.ul_top_dh:after{width:160px;height:35px;content: ""; display: block; background:url(../images/top_dh.jpg) no-repeat right top;position:absolute;right:0;top:0;}
+#main{width:1142px;}
+#left{width:305px;background:none;height:auto;}
+.navFix{ position: fixed;top: 0; width: 100%; z-index: 9999;}
+.treeNav{ width: 300px; overflow: hidden;  position: relative; background: #ffffff; z-index: 1}
+.treeFix{ position: fixed;}
+.treeNav .treeNum-box{ width: 30px; background: #7abaff; height: 100%; position: absolute; left: 0; top: 0}
+.treeNav .treeNum-box ul{ padding: 5px 0 0 0}
+.treeNav .treeNum-box li{ width: 30px; height: 24px;}
+.treeNav .treeNum-box a{ display: block; width: 30px; height: 24px; text-align: center; line-height: 24px; font-size: 13px; color: #ffffff; font-weight: bold}
+.treeNav .treeNum-box a:hover{ background:#ff4f53; text-decoration: none }
+.treeNav .treeNum-box .current{ background: #ed3d3d}
+.treeNav .treeWarp{width: 270px;  margin: 0 0 0 30px}
+.treeNav .treeCon{border:1px solid #e9e9e9; }
+.treeNav .treeCon .car-list{ padding: 15px 0 5px 10px; border-bottom: 1px solid #e9e9e9; height: 180px}
+.treeNav .treeCon .car-list ul{  overflow: hidden;*zoom:1}
+.treeNav .treeCon .car-list li{ float: left; margin: 0 10px 0 0; padding: 0 0 10px; text-align: center}
+.treeNav .treeCon .car-list .img-box{ width: 70px; height: 47px;}
+.treeNav .treeCon .car-list img{ width: 70px; height: 47px; display: block}
+.treeNav .treeCon .car-list p{ height: 20px; line-height: 20px; text-align: center; font-size: 12px; width: 70px; overflow: hidden }
+.treeNav .treeCon .tree-list{ margin: 0;height: 900px;  overflow-y: scroll; position: relative}
+.treeNav .treeCon a{ text-decoration: none}
+.treeNav .treeCon a:link,.treeNav .treeCon a:visited{ text-decoration: none}
+.treeNav .treeCon .list-con{ margin: 0}
+.treeNav .treeCon .num-tit{ height: 40px; line-height: 40px; background: #f7f7f7; padding: 0 15px; font-size: 18px; font-weight: bold; color: #333333}
+.treeNav .treeCon .brand-list .active{ background: #ffffff}
+.treeNav .treeCon .brand-list li{ border-bottom: 1px solid #e9e9e9;margin:0;padding:0;    list-style:none;display: list-item;
+    text-align: -webkit-match-parent;}
+.treeNav .treeCon .brand-list li:last-child{ border-bottom: 0}
+.treeNav .treeCon .brand-list a{ display: block; padding: 0 0 0 15px; overflow: hidden; height: 50px; line-height: 50px;margin:0;}
+.treeNav .treeCon .brand-list a *{font-size:14px;color:#333;}
+.treeNav .treeCon .brand-list .active{ border-bottom: 1px solid #e9e9e9; }
+.treeNav .treeCon .brand-list .brand-name em{font-style:normal;}
+.treeNav .treeCon .brand-list .logo-img{ float: left; width: 30px; height:30px;text-align: center; display: block;vertical-align: middle;margin-top:10px;line-height:30px;}
+.treeNav .treeCon .brand-list img{ vertical-align: middle; *margin: 10px 0 0 0;    border: 0;max-width: 100%;line-height:30px;}
+.treeNav .treeCon .brand-list .brand-name{  padding: 0 0 0 15px; font-size: 14px; overflow: hidden; float: left;}
+.treeNav .treeCon .brand-list .brand-name *{line-height:50px;}
+.treeNav .treeCon .brand-list .brand-name span{ display: block; float: left; overflow: hidden;max-width: 150px}
+.treeNav .treeCon .brand-list .brand-name em{ font-size: 12px; color: #999999; padding: 0 5px; display: block; float: left}
+.treeNav .treeCon .sub-list{ padding: 20px 0 0}
+.treeNav .treeCon .sub-list li{ padding: 0 0 0 55px; border: 0; overflow: hidden;position:relative;}
+.treeNav .treeCon .sub-list .sub-name{ display: block; padding: 0 0 0 25px; height: 20px; line-height: 20px; background: url(http://image.bitautoimg.com/2016/pc1200/img/silde_nav_img.png) no-repeat 0 0; font-size: 14px;  overflow: hidden; border-bottom: 0}
+.treeNav .treeCon .sub-list .sub-name span{ display: block; float: left}
+.treeNav .treeCon .sub-list .sub-name em{ float: left; font-size: 12px; color: #999999; padding: 0 5px;font-style:normal;}
+.treeNav .treeCon .sub-car-box{ padding: 10px 0}
+.treeNav .treeCon .sub-car-box li{ padding: 0 0 0 25px; border: 0; margin: 0 0 10px }
+.treeNav .treeCon .sub-car-box a{ padding: 0 0 0 20px; display: block; overflow: hidden; background: url(http://image.bitautoimg.com/2016/pc1200/img/silde_nav_img.png) no-repeat 0 -58px; font-size: 14px; height: 20px; line-height: 20px; white-space: nowrap}
+.treeNav .treeCon a.check{ color: #ED3D3D; box-shadow: none; margin: 0}
+.treeNav .treeCon .sub-car-box span{ display: block; float: left; overflow: hidden}
+.treeNav .treeCon .sub-car-box em{ font-size: 12px; color: #999999; padding: 0 5px}
+.treeNav .treeCon .sub-car-box b{ color: #999999;font-weight: normal}
+
+.treeNav .treeCon .sub-sty{ padding: 10px 0 0 0}
+.treeNav .treeCon .sub-sty .sub-car-box li{ padding: 0}
+.navBox{padding-bottom: 20px; height: 80px}
+.navBox .header-main-nav{ margin: 0; }
+.sherch-top{    background: -moz-linear-gradient(top,#F9F9F9 0,#efefef 100%);
+background: -o-linear-gradient(top,#F9F9F9 0,#efefef 100%); background: linear-gradient(to bottom,#F9F9F9 0,#efefef 100%); background-repeat: repeat-x;
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#F9F9F9,endColorstr=#efefef,GradientType=0);
+ height:48px; border-bottom: 1px solid #efefef;
+ color: #5c5b5b;padding-left: 10px;}
+
+
+
+/*搜索*/
+.sherch-top-text{line-height:48px;height:48px;overflow:hidden;font-size:14px;float:left;display:inline;text-overflow: ellipsis;white-space: nowrap;}
+.sherch-text-w280{width:280px;}
+ .btn-form{
+    position:relative;
+    margin-top:2px;
+    text-align:left;
+    float:right;
+    z-index:100;
+}
+
+.top .btn-form{
+    margin-top:8px;
+}
+.btn-form .brand-form{
+    height:0;
+    border:none;
+}
+.brand-form .zcfcbox{
+    top:0;
+}
+.btn-form .btn-from-control{
+    width:300px;
+    *width:270px;
+    *height:40px;
+    border:2px solid #FF4F53;
+    padding-right:20px;
+    height: 40px;
+    line-height: 38px;
+        border-radius: 3px 0 0 3px;
+    padding: 0 15px 0 85px;
+    float: left;
+}
+.btn {
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    color: #FF4F53;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    padding: 0 20px;
+    font-size: 16px;
+    height: 40px;
+    line-height: 38px;
+    background-color: #ffffff;
+}
+.btn:hover, .btn:focus, .btn.focus {
+    text-decoration: none;
+}
+.btn-primary:hover {
+    background: #EE3E42;
+    color: #ffffff;
+}
+.btn-form > .btn {
+    height: 44px;
+    line-height: 42px;
+}
+.btn-primary, .btn-primary:link {
+    border-color: #FF4F53;
+    background: #FF4F53;
+    color: #ffffff;
+}
+.btn-form > .btn-primary {
+    border-radius: 0 3px 3px 0;
+    float: left;
+}
+.btn-form > .btn-primary:hover {
+    color: #ffffff;
+}
+.btn-form .btn {
+    width: 120px;
+}
+
+.zhupingpai {position:absolute;left:10px;top:0;}
+.zhupingpai a{position:relative;line-height:42px;color:#333333;font-size:14px;padding-right:18px;}
+.zhupingpai a:visited,.zhupingpai a:link{color:#333333;}
+.zhupingpai:after{
+    content:'';
+    position:absolute;
+    right:0px;
+    top:19px;
+    width:10px;
+    height:6px;
+    background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAGCAYAAAD68A/GAAAAAXNSR0IArs4c6QAAALlJREFUCB1dj6EKwgAQhv8bU0z6CFbDQMGHMKqwYRjokmbfYCBWsVkMa4YZjPoA5glaLGKxDxQWBv7eJhp24efu47uDE/bsI4AHSjKSMEy0/xc9r4L4GYCoG0pvIB2kPNBxaj+LrltF/NqrNADkLvR9E9ElAOgqiFCWDkyTSFKV2IbIBi1rKNkFlQ2czivdHqt8VULFDRiyRtOaiO+/czGTs2LXXmhO80FkKbvtt89BIfS5Gfv2vIDxAdMAPfMKQabCAAAAAElFTkSuQmCC);
+    pointer-events:none;
+    cursor:pointer;
+}
+.zhupingpai-list{position:absolute;left:0;top:42px;    border: 2px solid #FF4F53;border-top:none;background-color:#ffffff;padding:5px 10px;}
+.zhupingpai-list li{marign:0;padding:0;list-style:none;line-height:30px;font-size:14px;}
+.zhupingpai-list a:link,.zhupingpai-list a:visited{color:#333333;font-size:14px;}
+
+.seacher-box{line-height:30px;margin-top:15px;padding-bottom:15px;font-size:14px;padding-left:10px;}
+.seacher-box select{height:28px;line-height:28px;margin-right:15px;width:110px;}
+.an_cp {
+    background: url(../images/an_xg.jpg) no-repeat;
+    width: 123px;
+    height: 30px;
+    line-height: 33px;
+    border: 0;
+    text-align: left;
+    padding-left: 8px;
+    cursor: pointer;
+}
+.treeNav .treeCon .brand-list .saleoff a *{color:#e4e4e4;}
+
+.treeNav .treeCon .brand-list   i.ico-add{float:left;font-style:normal;width:11px;height:11px;background:url(../images/ico-add.jpg) no-repeat left top;display:block;margin-top:22px;margin-right:5px;}
+.treeNav .treeCon .brand-list  i.ico-subtract{float:left;font-style:normal;width:11px;height:11px;background:url(../images/ico-subtract.jpg) no-repeat left top;display:block;margin-top:22px;margin-right:5px;}
+.treeNav .treeCon .brand-list  .sub-list  i.ico-add,.treeNav .treeCon .brand-list  .sub-list i.ico-subtract{position:absolute;top:0px;left:35px;margin-top:0px;margin-right:0px;}

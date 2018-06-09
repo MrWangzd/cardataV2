@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>易车车型库后台管理</title>
+    <link th:href="@{/Content/Shared/login.css}" rel="stylesheet" type="text/css"/>
+    <link th:href="@{/Content/Shared/font.css}" rel="stylesheet" type="text/css"/>
+    <script th:src="@{/Scripts/jquery-1.8.3.js}" type="text/javascript"></script>
+    <script th:src="@{/Scripts/login.js}" type="text/javascript"></script>
+</head>
+<body>
+<div class="login">
+    <div>
+        <div class="center_middle">
+            <div class="main_l">
+                <ul class="ul_login">
+                    <li class="li_1">用户名：</li>
+                    <li>
+                        <input id="txtName" name="" type="text" class="in_login">
+                        <span class="red"></span>
+                    </li>
+                    <li class="li_2">密码：</li>
+                    <li>
+                        <input id = "txtPwd" name="" type="text" class="in_login">
+                        <span class="red"></span>
+                    </li>
+                    <li class="li_3">  验证码：</li>
+                    <li> <input type="text" id="valCode" name="valCode" class="in_login_s" maxlength="4" /></li>
+
+                    <li><input id="btnLogin" type="button" onclick="login()" class="an_login" />
+                </ul>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+</body>
+</html>

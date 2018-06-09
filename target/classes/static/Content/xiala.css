@@ -1,0 +1,13 @@
+/*menu*/
+.nav { float:left; width:548px; background:#ecf5ff; list-style:none; margin:0; padding:0;}
+.jquery_out {float:left;line-height:22px;display:block; border-right:1px solid #fff; text-align:center; color:#fff;font:18px/32px "Î¢ÈíÑÅºÚ";}
+.jquery_out .smile {padding-left:1em;}
+.jquery_inner {margin-left:16px;}
+.jquery {margin-right:1px;padding:0 2em;}
+.mainlevel{ float:left; border-right:1px solid #fff; width:20px;/*IE6 only*/ text-align:center}
+.mainlevel_on{ color:#FFFFFF; background-color:#f8f9fa; float:left; border-right:1px solid #fff; width:20px;/*IE6 only*/}
+
+.mainlevel a {color:#004a8e; text-decoration:none; line-height:22px; display:block; padding:0;}
+.mainlevel a:hover {color:#FF9900; text-decoration:none; background:#f8f9fa }
+.mainlevel ul {display:none; position:absolute; width:548px;; left:0px; top:22px; background:#f8f9fa; list-style:none; margin:0; padding:0;}
+.mainlevel ul li {float:left; border-top:1px solid #fff; background:#f8f9fa;/*IE6 only*/ width:auto; margin-right:10px; white-space:nowrap;}

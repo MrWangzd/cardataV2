@@ -1,0 +1,143 @@
+﻿#syncModel div
+{
+    width: 825px;
+    float: left;
+}
+#syncModel .struct
+{
+    background: #f8f8f8;
+    color: #4351a9;
+    line-height: 30px;
+    font-weight: bold;
+    border: 1px dotted #d2d6de;
+    margin: 10px auto;
+    padding-left: 10px;
+}
+
+
+
+#syncModel div
+{
+    width: 100%;
+}
+#syncModel .makeDiv
+{
+    height: 30px;
+    font-weight:100;
+    font-size: 12px;
+    margin-left: 30px;
+}
+#syncModel .reModel
+{
+    margin-left: 50px;
+}
+#syncModel .years
+{
+    border: 1px double gray;
+    position: absolute;
+    background-color: #F7F7F7;
+    width: 300px;
+    height: auto;
+    display: none;
+}
+#syncModel ul
+{
+    padding-top: 0px;
+    padding-left: 10px;
+}
+#syncModel li
+{
+    width: 200px;
+    float: left;
+    list-style-type: none;
+}
+#syncModel .modelselect
+{
+    color: Blue;
+    cursor: pointer;
+}
+#syncModel .h1
+{
+    padding: 3px;
+    background-color: #648ddf;
+    font-size: 12px;
+    font-weight: bold;
+    color: #ffffff;
+}
+#syncModel .h2
+{
+    font-size: 12px;
+    font-weight: bold;
+    padding-left: 5px;
+    padding-top: 10px;
+}
+#syncModel .bottomDiv
+{
+    width: 300px;
+    bottom: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+#syncModel .EditOver
+{
+    background: url("/Content/images/qudd.jpg") repeat scroll 0 0 transparent;
+    border: 0 none;
+    color: #004B8E;
+    cursor: pointer;
+    height: 27px;
+    line-height: 27px;
+    text-align: center;
+    width: 69px;
+    margin-right: 10px;
+}
+#syncModel .no
+{
+    margin-left: 150px;
+    width: 50px;
+    height: 30px;
+}
+#syncModel hr
+{
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+#syncParam .struct
+{
+    background: #f8f8f8;
+    color: #4351a9;
+    line-height: 30px;
+    font-weight: bold;
+    border: 1px dotted #d2d6de;
+    margin: 10px auto;
+}
+#syncParam .h1
+{
+    font-size: x-large;
+    padding-left: 5px;
+    padding-top: 10px;
+}
+#syncParam .h2
+{
+    font-size: large;
+    padding-left: 5px;
+    padding-top: 10px;
+}
+#syncParam ul
+{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+#syncParam li
+{
+    width: 200px;
+    float: left;
+    list-style-type: none;
+}
+#syncParam div
+{
+    width: 100%;
+    float: left;
+}
+

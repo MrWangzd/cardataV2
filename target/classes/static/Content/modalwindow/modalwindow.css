@@ -1,0 +1,28 @@
+﻿.right-button01  
+{
+    font-size: 13px; 
+    font-weight: bold; 
+    color: #174B73; 
+    height: 20px; 
+    width: 63px; 
+    background-image: url(/Content/themes/base/images/button03.gif); 
+    border: 0px;
+}
+
+
+
+.button {
+     -moz-border-bottom-colors:aliceblue; 
+     -moz-border-image: none; 
+     -moz-border-left-colors: aliceblue; 
+     -moz-border-right-colors: aliceblue; 
+     -moz-border-top-colors: aliceblue; 
+     background: none repeat scroll 0 0 #FFFFFF; 
+     border-color: #C28F27; 
+     border-style: solid; 
+     border-width: 1px 3px; 
+     color: #A74300; 
+     font-size: 12px; 
+     margin: 4px; 
+     padding: 2px 2px 0;
+}

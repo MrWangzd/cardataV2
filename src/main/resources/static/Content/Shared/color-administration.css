@@ -1,0 +1,84 @@
+
+/*17.5.5 颜色管理页面liuhui*/
+ul li{margin:0;padding:0;list-style: none;}
+.all-main{width:1200px;margin:0 auto;}
+.navigation{height:50px;line-height:50px;padding-top:20px;border-bottom:3px solid #e1e1e1;font-size:14px;}
+.navigation a{font-size:14px;}
+.tab-box{height:35px;margin-top:15px;}
+.tab-main{display: inline;float:left;height:25px;}
+.tab-main li{margin-right:10px;float:left;}
+.tab-main li a{display:block;height:25px;line-height:25px;margin-top:5px;padding:0 5px;color:#333;font-size:14px;border-radius: 2px;}
+.tab-main li.current a{background-color:#3e82dc;color:#ffffff;}
+.tab-but{height:33px;line-height:33px;border:1px solid #3e82dc;border-radius: 2px;background-color:#ffffff;color:#3e82dc;font-size:14px;padding:0 20px;display:block;}
+.tab-rit{float:right;position:relative;}
+.tab-but:hover{color:#FF0000;border:1px solid #FF0000;}
+.color-box{margin-top:15px;position:relative;padding-bottom:30px;display:table;clear:both;width:1200px;}
+.color-box:before{content: "";display:block;height:100%;position:absolute;left:720px;width:1px; background-color:#e1e1e1;}
+.car-color{width:700px;float:left;}
+.color-tit{height:28px;line-height:28px;text-align:center;border:1px solid #e1e1e1;border-top:3px solid #e1e1e1;background-color:#f7f7f7;font-size:12px;font-weight:bold;}
+.car-color-list ul {margin-left:-20px;}
+.car-color-list ul li{float:left;margin-left:20px;width:218px;height:108px;margin-top:20px;border:1px solid #e1e1e1;}
+.color-bg{width:28px;height:108px;float:left;display:block;}
+.car-color-main{width:189px;padding-top:10px;height:98px;border-left:1px solid #E1E1E1;float:left;}
+.car-color-maing-top{height:68px;}
+.car-color-tit{padding-left:10px;line-height:22px;height:22px;font-size:14px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+.car-color-value{line-height:22px;padding-left:10px;}
+.car-color-year{color:#cbcbcb;line-height:22px;height:22px;padding-left:10px;    overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+.car-color-text{height:30px;line-height:30px;background-color:#e1e1e1;position:relative;padding-left:10px;}
+.car-color-text a{color:#333;}
+.car-color-text a:hover{color:#3e82dc;text-decoration:underline;}
+.color-modify{display:inline-block;float:left;line-height:30px;}
+.color-delete {width:0px;padding-left:13px;height:13px;line-height:0;font-size:0;overflow:hidden;background:url(../images/shanchu.jpg) no-repeat left top;display:block;float:right;margin-right:10px;margin-top:9px;}
+.color-delete:hover{background:url(../images/shanchu-hover.jpg) no-repeat left top;}
+.car-color-list ul li.add-box{background-color:#e1e1e1;position:relative;}
+.add-main{height:78px;width:100%;background-color:#ffffff;text-align:center;line-height:78px;}
+.add-main a{color:#333333;}
+.add-main a:hover{color:#3e82dc;text-decoration:underline;}
+.Interior-color{width:460px;float:right;}
+.color-bg em{display:block;width:100%;}
+
+/*删除浮层*/
+.color-delete-layer{position:absolute;right:0;bottom:30px;border:1px solid #999999;padding:10px;width:100px;background-color:#ffffff;}
+.color-delete-layer a{line-height:20px;color:#333333;}
+.color-delete-layer a:hover{color:#3e82dc;text-decoration:underline;}
+.color-delete-confirm{float:left;}
+.color-delete-cancel{float:right;}
+.color-delete-layer em{position:absolute;right:10px;bottom:-7px;width:11px;height:7px;background:url(../images/arrow-bg1.png) no-repeat left top;display:block;}
+
+/*点击添加、编辑颜色浮层*/
+.edit-layer{background-color:#ffffff;width:218px;border: 1px solid #e1e1e1;position:absolute;left:-1px;top:-1px;}
+.edit-layer-input{margin:10px 10px 0px 10px;width:196px;height:28px;border: 1px solid #e1e1e1;position:relative}
+.edit-layer-input input{height:25px;line-height:25px;width:184px;border:1px solid #ffffff;padding:0 5px;}
+.edit-layer-input em{position:absolute;right:10px;top:0;line-height:28px;font-style:normal;}
+.edit-layer-year{margin-top:5px;margin-left:10px;display:table;clear:both;}
+.edit-layer-year ul {margin-left:0;}
+.edit-layer-year ul li{margin:0;padding:0;border:none;height:16px;line-height:16px;width:70px;margin-right:30px;float:left;margin-top:10px;}
+.edit-layer-year ul li label{height:16px;line-height:16px;}
+.edit-layer-year ul li label input{float:left;margin-top:2px;margin-right:3px;}
+.edit-layer-text{height:30px;line-height:30px;background-color:#e1e1e1;margin-top:10px;}
+.edit-layer-text a{color:#333333;line-height:30px;}
+.edit-layer-text a:hover{color:#3e82dc;text-decoration:underline;}
+.edit-keep {float:left;margin-left:10px;}
+.edit-cancel{float:right;margin-right:10px;}
+
+/*添加年款及颜色浮层*/
+.add-layer{width:590px;border:1px solid #e1e1e1;position:absolute;right:0;background-color:#ffffff;top:
+45px;padding-bottom:25px;}
+.add-layer em{position:absolute;right:55px;top:-6px;width:8px;height:6px;background:url(../images/arrow-bg2.png) no-repeat left top;display:block;}
+.add-layer-top{height:28px;line-height:28px;margin:25px 30px 0 30px;font-size:14px;}
+.add-layer-top input{width:58px;line-height:26px;height:26px;border:1px solid #cccccc;padding:0 10px;margin:0px;float:none;}
+.add-layer-mid{clear:both;margin-top:25px;margin-left:30px;display:table;}
+.add-left{float:left;}
+.add-layer-color{width:230px;float:left;margin-right:50px;}
+.add-layer-color h4{font-size:14px;color:#333333;font-weight:normal;}
+.add-layer-color  ul{}
+.add-layer-color li{height:15px;margin-top:15px;}
+.add-layer-color li label{height:15px;line-height:15px;display:block;}
+.add-layer-color li input{float:left;margin-right:10px;vertical-align:middle;margin-top:2px;}
+.add-layer-color li i{width:15px;height:15px;border-radius: 50px;float:left;display:block;margin-right:8px;border:1px solid #e7e7e7;}
+.add-layer-but {height:35px;margin-top:30px;text-align:center;}
+.add-layer-but  a{height:33px;line-height:33px;width:128px;margin:0 10px;font-size:12px;font-weight:bold;color:#333333;border:1px solid #cccccc;display:inline-block;border-radius: 3px;}
+.add-layer-but  a.baocen{color:#3e82dc;border:1px solid #3e82dc;}
+.add-layer-but  a:hover{border:1px solid #FC5241;color:#FC5241;}
+
+.mongolia-gray{width:100%;height:100%;position:absolute;left:0;top:0;background-color: rgba(0,0,0,0.5);}
