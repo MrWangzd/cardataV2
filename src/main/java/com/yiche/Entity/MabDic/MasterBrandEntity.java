@@ -1,4 +1,4 @@
-package com.yiche.Entity;
+package com.yiche.Entity.MabDic;
 
 import java.util.Date;
 
