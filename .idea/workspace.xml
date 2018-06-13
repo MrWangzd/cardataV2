@@ -1,23 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ade2ec4-9876-4343-a84f-09ffefcdfa18" name="Default" comment="modify">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/yiche/Controller/Make.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/yiche/Controller/MasterBrandController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/yiche/Controller/ModelController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/templates/Make/Add.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/templates/Make/Edit.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/templates/Make/Index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/templates/MasterBrand/Add.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/templates/MasterBrand/Edit.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/templates/MasterBrand/Index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/templates/Model/Add.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/templates/Model/Edit.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/templates/Model/Index.html" />
+    <list default="true" id="2ade2ec4-9876-4343-a84f-09ffefcdfa18" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yiche/Entity/MabDic/MabTreeEntity.java" afterPath="$PROJECT_DIR$/src/main/java/com/yiche/Entity/MabDic/MabTreeEntity.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yiche/Entity/MasterBrandEntity.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yiche/Mapper/AuthorityMapper.class" afterPath="$PROJECT_DIR$/target/classes/com/yiche/Mapper/AuthorityMapper.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -222,97 +207,7 @@
             <path>
               <item name="cardataV2" type="b2602c69:ProjectViewProjectNode" />
               <item name="cardataV2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cardataV2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cardataV2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cardataV2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cardataV2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cardataV2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cardataV2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cardataV2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cardataV2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="yiche" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cardataV2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cardataV2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="yiche" type="462c0819:PsiDirectoryNode" />
-              <item name="Controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cardataV2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cardataV2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cardataV2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cardataV2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cardataV2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cardataV2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cardataV2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cardataV2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="MasterBrand" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cardataV2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cardataV2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="Model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cardataV2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cardataV2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="Style" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1160,7 +1055,7 @@
       <workItem from="1528551725997" duration="4060000" />
       <workItem from="1528558003277" duration="831000" />
       <workItem from="1528603512118" duration="4182000" />
-      <workItem from="1528918433854" duration="165000" />
+      <workItem from="1528918433854" duration="329000" />
     </task>
     <task id="LOCAL-00001" summary="modify">
       <created>1528605494260</created>
@@ -1183,11 +1078,18 @@
       <option name="project" value="LOCAL" />
       <updated>1528605516960</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="modify">
+      <created>1528918607986</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1528918607986</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134430000" />
+    <option name="totallyTimeSpent" value="134594000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1200,7 +1102,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1222,7 +1123,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3329609" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18923241" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18923241" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
